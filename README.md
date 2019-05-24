@@ -1,0 +1,2 @@
+# DarkBrightTheme
+DarkBrightTheme_for_vscode
