@@ -1,0 +1,21 @@
+{
+    "name": "test-theme",
+    "displayName": "test-Black Bright Theme by Jay_b0",
+    "description": "Black Bright Theme by Jay_b0",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Black Bright Theme by Jay_b0",
+                "uiTheme": "vs-dark",
+                "path": "./themes/jay-color-theme.json"
+            }
+        ]
+    }
+}
