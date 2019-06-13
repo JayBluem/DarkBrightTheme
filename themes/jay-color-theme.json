@@ -9,7 +9,7 @@
 		"editor.selectionHighlightBorder": "#00ddff" ,// 테두리
 		"editor.inactiveSelectionBackground": "#77777777",//
 		"editor.selectionBackground": "#77777777", //
-		edborder
+		// edborder
 		
 
 		"editor.lineHighlightBorder": "#777777", // 라인 하이라이트 ffffff66
@@ -37,7 +37,10 @@
 		"editorGroupHeader.tabsBackground": "#777777", // 탭 라인쪽 배경
 		"editorGroupHeader.tabsBorder": "#777777", // 탭 라인쪽 배경
 		"tab.inactiveBackground": "#777777", // 탭 비활성화 배경
-		"tab.inactiveForeground": "#000000", // 탭 비활성화 글씨
+		"tab.inactiveForeground": "#ffffff", // 탭 비활성화 글씨
+		// "tab.border": "#ffffff",s
+		"tab.hoverBorder": "#ffffff",
+		"tab.hoverBackground": "#000000",
 		
 		"menu.background": "#000000",
 		"menu.foreground": "#ffffff",
@@ -46,27 +49,26 @@
 		"menu.border": "#777777",
 		"menu.selectionBorder": "#ff0000",
 		
-		"tab.hoverBackground": "#777777",
 		
 		"activityBarBadge.background": "#000000",
 		"activityBarBadge.foreground": "#ffffff",
-
+		
 		"statusBar.background": "#000000",
 		"statusBar.border": "#777777",
-
+		
 		"editorRuler.foreground": "#777777",
 		"progressBar.background": "#777777",
-
+		
 		"sideBar.background": "#000000",
 		
 		"sideBar.border": "#777777",
 		"sideBarSectionHeader.border": "#777777",
 		"sideBarSectionHeader.background": "#000000",
-		"menubar.selectionBackground": "#ff0000", // 메뉴에 커서 갖다 댔을때
-		"menubar.selectionBorder": "#ff0000",
+		"menubar.selectionBackground": "#ffffff00", // 메뉴에 커서 갖다 댔을때
+		"menubar.selectionBorder": "#ffffff",
 		"menubar.selectionForeground": "#ffffff",
 		"menu.separatorBackground": "#ff0000",
-
+		
 		"sideBarTitle.foreground": "#ffffff",
 		"focusBorder": "#ff0000",
 		
